@@ -1,7 +1,19 @@
-/*
+/**
+* Author: Westley Case & Morgan Allred
+* Assignment: Project 6
+* File: Driver.cpp
+* Instructor: Dr. DeBry
+* Class: CS1410-001
+* Date Written: March 12th 2015
+* Description: Finds one string inside another
 *
+
+* I declare the the following source code was written by Wes and Morgan,
+* I understand the copying of any source code in whole or in part constitutes cheating,
+* and I will recieve a 0 on this assignment if I violate this policy
 *
 */
+
 #include "Driver.h"
 
 
