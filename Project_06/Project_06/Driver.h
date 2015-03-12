@@ -15,4 +15,5 @@ const int ERROR_TWO = -2;
 // Returns: Int (the index of the starting char of String 2
 int index_of(string, string);
 
+// Purpose: Helper function
 int index_ofH(string, string, int);
