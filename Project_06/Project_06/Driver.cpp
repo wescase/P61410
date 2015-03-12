@@ -1,4 +1,4 @@
-/**
+/*
 * Author: Westley Case & Morgan Allred
 * Assignment: Project 6
 * File: Driver.cpp
@@ -7,35 +7,28 @@
 * Date Written: March 12th 2015
 * Description: Finds one string inside another
 *
-
 * I declare the the following source code was written by Wes and Morgan,
 * I understand the copying of any source code in whole or in part constitutes cheating,
 * and I will recieve a 0 on this assignment if I violate this policy
-*
 */
 
 #include "Driver.h"
 
-
 int main()
 {
-
 	// ----local vars---- //
-	
 	string str1;
 	string str2;
-
-	// ----local vars---- //
 
 	// getting console input
 	cout << "This Program will find the occurence of one string inside another." << endl << endl;
 	cout << "Enter the string to be searched:  ";
 	getline(cin, str1);
 
+	// get the whole string/sentance entered by user
 	cout << "Now enter the string you want to search for:  ";
 	getline(cin, str2);
 
-	
 	int idx = index_of(str1, str2);
 
 	// Console output
@@ -74,7 +67,6 @@ int index_of(string s, string t)
 
 int index_ofH(string str1, string str2, int i)
 {
-
 	if ((i + str2.length()) > str1.length())
 	{
 		return ERROR_TWO;

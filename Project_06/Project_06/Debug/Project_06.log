@@ -1,13 +1,14 @@
-﻿Build started 3/12/2015 8:52:49 AM.
-     1>Project "C:\Users\Mo\Desktop\Projects\P61410\Project_06\Project_06\Project_06.vcxproj" on node 2 (Build target(s)).
+﻿Build started 3/12/15 9:26:16 AM.
+     1>Project "\\psf\Home\Documents\School\CS1410\P61410\Project_06\Project_06\Project_06.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Driver.cpp
          Driver.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mo\Desktop\Projects\P61410\Project_06\Debug\Project_06.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mo\Desktop\Projects\P61410\Project_06\Debug\Project_06.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mo\Desktop\Projects\P61410\Project_06\Debug\Project_06.lib" /MACHINE:X86 Debug\Driver.obj
-         Project_06.vcxproj -> C:\Users\Mo\Desktop\Projects\P61410\Project_06\Debug\Project_06.exe
-     1>Done Building Project "C:\Users\Mo\Desktop\Projects\P61410\Project_06\Project_06\Project_06.vcxproj" (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\psf\Home\Documents\School\CS1410\P61410\Project_06\Debug\Project_06.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\psf\Home\Documents\School\CS1410\P61410\Project_06\Debug\Project_06.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\psf\Home\Documents\School\CS1410\P61410\Project_06\Debug\Project_06.lib" /MACHINE:X86 Debug\Driver.obj
+         LINK : \\psf\Home\Documents\School\CS1410\P61410\Project_06\Debug\Project_06.exe not found or not built by the last incremental link; performing full link
+         Project_06.vcxproj -> \\psf\Home\Documents\School\CS1410\P61410\Project_06\Debug\Project_06.exe
+     1>Done Building Project "\\psf\Home\Documents\School\CS1410\P61410\Project_06\Project_06\Project_06.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:03.59
+Time Elapsed 00:00:02.26
